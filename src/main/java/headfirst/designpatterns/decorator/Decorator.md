@@ -10,4 +10,9 @@ For example : A cheese thin crust pizza can be constructed via :
 2. Creating a cheese pizza from the think crust pizza (already created in 1)
 3. Create an olive pizza by using the cheese pizza (already created in 2)
 
+Decorator pattern
+![img_1.png](decorator1.png)
 
+See the colored taking params and another shape class as parameters, 
+this layering allows you to decorate multiple behaviors together. 
+![img_2.png](decorator2.png)
