@@ -7,5 +7,5 @@ File System class diagram
 Parking lot
 ![img_2.png](img_2.png)
 
-Elevator dsds
+Elevator 
 ![img_1.png](img_1.png)
