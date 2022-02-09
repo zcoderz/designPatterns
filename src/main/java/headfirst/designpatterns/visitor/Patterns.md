@@ -6,11 +6,8 @@ Here a visitor pattern can be used where we can add an abstract visitor class wh
 When we add a new method we can add it into the visitor, rather than having to add it to each of the files. 
 
 We have a concrete visitor class for each of the methods (i.e. print). The concrete class has methods to handle the 
-appropriate operation for each of the file types. The right instance of the method will be called because the method 
-gets passed the appropriate file type as param. 
+appropriate operation for each of the file types. The correct instance of the method will be called because the method
+gets passed to the appropriate file type as param. . 
 
 
 
-![img.png](img.png)
-
-![img_1.png](img_1.png)
